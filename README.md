@@ -10,6 +10,7 @@
 
 [![All in RAG](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/all-in-rag&mode=light&style=horizontal)](https://github.com/datawhalechina/all-in-rag)
 [![What to eat today](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/What-to-eat-today&mode=dark&style=horizontal)](https://github.com/FutureUnreal/What-to-eat-today)
+[![All in RAG](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/github-readme-stats-enhanced&mode=light&style=horizontal)](https://github.com/FutureUnreal/github-readme-stats-enhanced)
 
 **As a member** :
 
@@ -19,7 +20,7 @@
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 ⭐
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=FutureUnreal&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FutureUnreal&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img height="170" src="https://github-readme-stats-enhanced.vercel.app/api?username=FutureUnreal&show_icons=true&theme=light&include_all_commits=true&count_private=true&include_managed_repos=true" />
+  <img height="170" src="https://github-readme-stats-enhanced.vercel.app/api/top-langs/?username=FutureUnreal&hide_langs_below=1&theme=default&line_height=27&include_managed_repos=true&layout=compact" />
 </div>
