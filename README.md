@@ -10,7 +10,7 @@
 
 [![All in RAG](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/all-in-rag&mode=light&style=horizontal)](https://github.com/datawhalechina/all-in-rag)
 [![What to eat today](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/What-to-eat-today&mode=dark&style=horizontal)](https://github.com/FutureUnreal/What-to-eat-today)
-[![All in RAG](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/github-readme-stats-enhanced&mode=light&style=horizontal)](https://github.com/FutureUnreal/github-readme-stats-enhanced)
+[![GitHub Readme Stats Enhanced](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/github-readme-stats-enhanced&mode=light&style=horizontal)](https://github.com/FutureUnreal/github-readme-stats-enhanced)
 
 **As a member** :
 
