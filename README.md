@@ -15,6 +15,7 @@
 **As a member** :
 
 [![LLM Universe](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/llm-universe&mode=light&style=horizontal)](https://github.com/datawhalechina/llm-universe)
+[![GPT Academic](https://svg.bookmark.style/api?url=https://github.com/binary-husky/gpt_academic&mode=dark&style=horizontal)](https://github.com/binary-husky/gpt_academic)
 [![mcp lite dev](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/mcp-lite-dev&mode=light&style=horizontal)](https://github.com/datawhalechina/mcp-lite-dev)
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 ⭐
