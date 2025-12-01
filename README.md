@@ -10,12 +10,11 @@
 
 [![All in RAG](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/all-in-rag&mode=light&style=horizontal)](https://github.com/datawhalechina/all-in-rag)
 [![What to eat today](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/What-to-eat-today&mode=dark&style=horizontal)](https://github.com/FutureUnreal/What-to-eat-today)
-[![GitHub Readme Stats Enhanced](https://svg.bookmark.style/api?url=https://github.com/FutureUnreal/github-readme-stats-enhanced&mode=light&style=horizontal)](https://github.com/FutureUnreal/github-readme-stats-enhanced)
+[![Base NLP](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/base-nlp&mode=light&style=horizontal)](https://github.com/datawhalechina/base-nlp)
 
 **As a member** :
 
 [![LLM Universe](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/llm-universe&mode=light&style=horizontal)](https://github.com/datawhalechina/llm-universe)
-[![GPT Academic](https://svg.bookmark.style/api?url=https://github.com/binary-husky/gpt_academic&mode=dark&style=horizontal)](https://github.com/binary-husky/gpt_academic)
 [![mcp lite dev](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/mcp-lite-dev&mode=light&style=horizontal)](https://github.com/datawhalechina/mcp-lite-dev)
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 ⭐
