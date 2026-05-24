@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
-💼 I'm currently open to **remote opportunities** — freelance/part-time preferred, full-time also welcome!
+💼 I'm currently open to **remote opportunities** — freelance/part-time preferred!
 
 📫 You can reach me at: 1297762043@qq.com
 
